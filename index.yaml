@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  swiggy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-21T06:47:59.380247612Z"
+    description: A Helm chart for Kubernetes
+    digest: 52fcfdb1d4f8dda6dce441b1180e03715d2c28a79f98074d9e1325aff5aeea39
+    name: swiggy
+    type: application
+    urls:
+    - swiggy-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-21T06:47:59.379692303Z"
